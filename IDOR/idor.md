@@ -12,7 +12,7 @@ Major area
         like
         comment
         admin
-        account delate
+        account delete
         profile photos
 
 But keep eye on the 
@@ -89,4 +89,8 @@ vaild  the idors
 
 bug bounty Reports Explaineds : https://www.youtube.com/watch?v=wx5TwS0Dres
 
+tell how to attack
+https://www.youtube.com/watch?v=B_WESrC-wWs
 
+IDOR usually found
+bug Crowd => https://youtu.be/B_WESrC-wWs?si=P4RXEHSSYMRqmAm0
