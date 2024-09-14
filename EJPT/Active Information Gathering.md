@@ -1,0 +1,3 @@
+-  Discovery open ports on target systems.
+-  learning about the internal infrastructure of a target network/organisation.
+- Enumerating information from target systems
